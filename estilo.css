@@ -1,0 +1,52 @@
+body{
+	background-color: #e0438531;
+	background: #d15b0d url("Imagens\IMG-20230203-WA0027.jpg");
+	font: 16px Arial, Helvetica, sans-serif;
+}
+.container {
+	display: flex;
+	justify-content: center;
+  }
+.principal {
+	width: 900px;
+}
+
+#menu {
+	background: #c5c5b2;
+	padding: 18px;
+}
+
+#conteudo {
+	background: #a9bea9;
+	padding: 10px;
+}
+
+#rodape {
+	text-align: center;
+    color: #ff0606;
+}
+
+a {
+	color: #4b566a;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 5px;
+}
+
+.centralizar {
+	text-align: center;
+}
+
+.img-campanha {
+	border: 10px solid #c3c3ae;
+}
+
+h1 {
+	color: #828271;
+	font-size: 1.5em;
+}
+h2 {
+	color: #70d300;
+	font-size: 1.2em;
+}
+
